@@ -1,7 +1,7 @@
 # Power BI: Domina la Ciencia de la 📊✨ Organización de Datos.
 
 <div align="center">
-  <img align="center" width="17%" src="">
+  <img align="center" width="17%" src="https://user-images.githubusercontent.com/96964513/282158474-ec9483e0-a63d-4206-b56a-73ac9572a8f6.png">
 </a>
   <img align="center" width="17%" src="">
 </a>
