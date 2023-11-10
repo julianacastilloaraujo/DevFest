@@ -21,7 +21,7 @@ Charla de Power BI: Domina la Ciencia de la 📊✨ Organización de Datos. por 
 
 Bienvenido a la charla de Power BI: Domina la Ciencia de la 📊✨ Organización de Datos.
 
-🎯 [Diapositiva en extension .ppt]() <br>
+🎯 [Diapositiva en extension .ppt](https://docs.google.com/presentation/d/1_leeo7PQeCXlsfxoCn58fy4HzErkXr5p/edit?usp=sharing&ouid=116709244817325455320&rtpof=true&sd=true) <br>
 📚 [Diapositivas en extension .pdf]()
 
 # Data set sin ETL 👩‍💻
